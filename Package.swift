@@ -2,12 +2,12 @@
 import PackageDescription
 
 let package = Package(
-   name: "SolanaKit",
+   name: "SolanaKit.swift",
    platforms: [
      .iOS(.v14),
    ],
    products: [
-      .library(name: "SolanaKit", targets: ["SolanaKit"])
+      .library(name: "SolanaKit.swift", targets: ["SolanaKit"])
    ],
    targets: [
       .binaryTarget(
