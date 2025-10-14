@@ -13,7 +13,7 @@ let package = Package(
    targets: [
       .binaryTarget(
          name: "SolanaKit",
-         url: "https://github.com/The-SolShare-Team/SolanaKit/releases/download/v0.0.2/SolanaKit.xcframework.zip",
-         checksum: "90e3d815e23b54e0063845c44d030d3fb44cdecb364c7079c7a6703ce6541b49")
+         url: "https://github.com/The-SolShare-Team/SolanaKit/releases/download/v0.0.3/SolanaKit.xcframework.zip",
+         checksum: "3e8c1f018c47829709357b6be3277232e3c52bf5c10cdf7775c990d4ff5ef44f")
    ]
 )
